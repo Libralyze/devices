@@ -1,7 +1,7 @@
 <?php
 
 $header = <<<EOF
-This file is part of the Runalyze Device List.
+This file is part of the Libralyze Device List.
 
 (c) RUNALYZE <mail@runalyze.com>
 

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Runalyze Device List.
+ * This file is part of the Libralyze Device List.
  *
  * (c) RUNALYZE <mail@runalyze.com>
  *
@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Runalyze\Devices\Tests\Distributor;
+namespace Libralyze\Devices\Tests\Distributor;
 
-use Runalyze\Devices\Distributor\DistributorInterface;
-use Runalyze\Devices\Distributor\DistributorProfile;
+use Libralyze\Devices\Distributor\DistributorInterface;
+use Libralyze\Devices\Distributor\DistributorProfile;
 
 class DistributorProfileTest extends \PHPUnit\Framework\TestCase
 {

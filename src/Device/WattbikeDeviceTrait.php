@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Runalyze Device List.
+ * This file is part of the Libralyze Device List.
  *
  * (c) RUNALYZE <mail@runalyze.com>
  *
@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Runalyze\Devices\Device;
+namespace Libralyze\Devices\Device;
 
-use Runalyze\Devices\Distributor\DistributorProfile;
+use Libralyze\Devices\Distributor\DistributorProfile;
 
 trait WattbikeDeviceTrait
 {
